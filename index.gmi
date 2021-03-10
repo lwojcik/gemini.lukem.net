@@ -1,10 +1,21 @@
-# gemini.lukem.net
+```
+ _     _    _ _  ________ __  __   _   _ ______ _______
+| |   | |  | | |/ /  ____|  \/  | | \ | |  ____|__   __|
+| |   | |  | | ' /| |__  | \  / | |  \| | |__     | |   
+| |   | |  | |  < |  __| | |\/| | | . ` |  __|    | |   
+| |___| |__| | . \| |____| |  | |_| |\  | |____   | |   
+|______\____/|_|\_\______|_|  |_(_)_| \_|______|  |_|   
 
-Under construction.
+-- since 9 March 2021
+```
 
-Meanwhile, you can find me on plain ol' web:
 
-=> https://www.lukaszwojcik.net/ My homepage
+# Greetings, traveller!
+
+I'm Luke and this is my capsule. It's still under construction but every single journey begins somewhere. More interesting stuff is yet to come.
+
+Until now, here are some plain ol' web links of mine:
+
+=> https://www.lukaszwojcik.net/ Homepage
 => https://mastodon.lukem.net/@lukem Mastodon
-
-Started on 9 Mar 2021
+=> https://github.com/lwojcik GitHub
