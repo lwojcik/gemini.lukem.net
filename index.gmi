@@ -1,8 +1,8 @@
 # GEMINI.LUKEM.NET
 
-I'm Luke and this is my Gemini capsule. It's still under construction but every single journey begins somewhere. More interesting stuff is yet to come.
+I'm Luke and this is my brand new Gemini capsule. It's still under construction but every single journey begins somewhere. More interesting stuff is yet to come.
 
-Until now, here are some plain ol' web links of mine:
+Some links of mine in plain ol' web:
 
 => https://www.lukaszwojcik.net/ Homepage
 => https://mastodon.lukem.net/@lukem Mastodon
